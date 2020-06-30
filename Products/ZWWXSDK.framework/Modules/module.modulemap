@@ -1,0 +1,6 @@
+framework module ZWWXSDK {
+  umbrella header "ZWWXSDK.h"
+
+  export *
+  module * { export * }
+}
